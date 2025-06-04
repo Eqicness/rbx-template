@@ -1,0 +1,17 @@
+[package]
+name = "finn/time-and-wealth"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+Fusion = "elttob/fusion@0.3.0"
+Observers = "sleitnick/observers@0.3.4"
+Promise = "evaera/promise@4.0.0"
+Trove = "sleitnick/trove@1.5.0"
+cmdr = "evaera/cmdr@1.12.0"
+Signal = "sleitnick/signal@2.0.1"
+Rodux = "roblox/rodux@3.0.0"
+
+[server-dependencies]
+ProfileStore = "lm-loleris/profilestore@1.0.2"

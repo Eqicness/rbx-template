@@ -1,0 +1,12 @@
+{
+	"languageMode": "nonstrict",
+	"aliases": {
+		"Packages": "Packages/",
+		"Client": "src/Client/",
+		"Controllers": "src/Client/Controllers/",
+		"Common": "src/Common/",
+		"Server": "src/Server/",
+		"ServerPackages": "ServerPackages/",
+		"Services": "src/Server/Services/"
+	}
+}

@@ -1,0 +1,4 @@
+std="selene_definitions"
+
+[config]
+multiple_statements = {one_line_if = "allow"}

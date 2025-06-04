@@ -1,0 +1,29 @@
+{
+	"name": "project-template",
+	"tree": {
+		"$className": "DataModel",
+		"ReplicatedStorage": {
+			"Common": {
+				"$path": "dist/Common"
+			},
+			"Packages": {
+				"$path": "Packages"
+			}
+		},
+		"ServerScriptService": {
+			"Server": {
+				"$path": "dist/Server"
+			},
+			"Packages": {
+				"$path": "ServerPackages"
+			}
+		},
+		"StarterPlayer": {
+			"StarterPlayerScripts": {
+				"Client": {
+					"$path": "dist/Client"
+				}
+			}
+		}
+	}
+}

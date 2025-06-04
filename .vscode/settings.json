@@ -1,0 +1,16 @@
+{
+	"editor.formatOnSave": true,
+	"luau-lsp.completion.imports.enabled": true,
+	"luau-lsp.completion.imports.suggestServices": true,
+	"luau-lsp.completion.imports.suggestRequires": true,
+	"files.exclude": {
+		"dist": true
+	},
+	"stylua.targetReleaseVersion": "latest",
+	"[lua]": {
+		"editor.defaultFormatter": "JohnnyMorganz.stylua"
+	},
+	"[luau]": {
+		"editor.defaultFormatter": "JohnnyMorganz.stylua"
+	},
+}
