@@ -1,6 +1,8 @@
 # Roblox Project Template
 Common Roblox project workflow. Useful project settings for vscode settings in [settings.json](.vscode/settings.json)
 
+The goal of all of this tooling & structuring is to speed up workflow, write better code, and make less mistakes.
+
 **Rokit** for tooling management, useful tools include ([rokit.toml](rokit.toml)):
   - rojo: **essential**
   - luau-lsp: **essential**, handles luau in an external editor (vscode)
