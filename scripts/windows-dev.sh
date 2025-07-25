@@ -1,4 +1,5 @@
 #!/bin/sh
+# Typically I use git bash to run this:
 
 set -e
 

@@ -4,7 +4,7 @@
 		"$className": "DataModel",
 		"ReplicatedStorage": {
 			"Common": {
-				"$path": "src/Common"
+				"$path": "src/invalid-common-path"
 			},
 			"Packages": {
 				"$path": "Packages"
